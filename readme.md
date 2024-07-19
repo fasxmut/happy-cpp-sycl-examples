@@ -33,5 +33,10 @@ Use matrix, image, tensor, or audio. etc in sycl. c++ image library from sfml is
 
 https://www.sfml-dev.org
 
+Home
+--------------------------------------------------
+
+https://cppfx.xyz/projects/happ_cpp_sycl_examples.html
+
 
 
