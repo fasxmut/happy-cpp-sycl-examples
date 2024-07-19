@@ -3,7 +3,7 @@ Happ cpp sycl examples
 
 c++ sycl examples
 
-*How to build:*
+**How to build:**
 
 + Install sycl (c++) compiler.
 
@@ -11,17 +11,17 @@ c++ sycl examples
 
 + Build this project with b2 build.
 
-*sycl compier:*
+**sycl compier:**
 
-Adatpvecpp acpp compiler: https://github.com/AdaptiveCpp/AdaptiveCpp
++ Adatpvecpp acpp compiler: https://github.com/AdaptiveCpp/AdaptiveCpp
 
 $ acpp --help
 
-Intel dpcpp/cpp compiler: https://software.intel.com/dpcpp
++ Intel dpcpp/cpp compiler: https://software.intel.com/dpcpp
 
 $ dpcpp --help
 
-sycl Home: https://sycl.tech
++ sycl Home: https://sycl.tech
 
 01-basic-sycl
 --------------------------------------------------
