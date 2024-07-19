@@ -3,6 +3,8 @@ Happ cpp sycl examples
 
 c++ sycl examples
 
+cpp/c++
+
 **How to build:**
 
 + Install sycl (c++) compiler.
@@ -13,7 +15,7 @@ c++ sycl examples
 
 **sycl compier:**
 
-+ Adaptivecpp acpp compiler: https://github.com/AdaptiveCpp/AdaptiveCpp
++ Adaptivecpp acpp compiler: https://adaptivecpp.github.io
 
 $ acpp --help
 
