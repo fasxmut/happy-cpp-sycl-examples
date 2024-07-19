@@ -1,5 +1,6 @@
 progs =
 	01-matrix-addition
+	02-matrix-multiplication
 ;
 
 for prog in $(progs)
