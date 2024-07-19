@@ -1,0 +1,9 @@
+project
+	:
+		default-build
+			<cxxstd>23
+;
+
+build-project 01-basic-sycl ;
+
+

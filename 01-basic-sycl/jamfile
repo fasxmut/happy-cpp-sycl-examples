@@ -1,0 +1,18 @@
+progs =
+	01-lambda-kernel
+	02-object-kernel
+	03-sycl-buffer
+	04-host-access
+	05-work-group
+	06-local-memory
+	07-group-barrier
+;
+
+for prog in $(progs)
+{
+	exe $(prog)
+		:
+			$(prog).cpp
+	;
+}
+
