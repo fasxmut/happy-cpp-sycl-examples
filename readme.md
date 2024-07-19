@@ -5,9 +5,11 @@ c++ sycl examples
 
 *How to build:*
 
-*Install sycl (c++) compiler.
-*Install b2 build.
-*Build this project with b2 build.
++ Install sycl (c++) compiler.
+
++ Install b2 build.
+
++ Build this project with b2 build.
 
 *sycl compier:*
 
