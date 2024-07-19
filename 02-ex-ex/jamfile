@@ -11,3 +11,13 @@ for prog in $(progs)
 	;
 }
 
+lib sfml-graphics sfml-window sfml-system ;
+alias sfml : sfml-graphics sfml-window sfml-system ;
+
+exe 03-image-piece-rotate
+	:
+		03-image-piece-rotate.cpp
+	:
+		<library>sfml
+;
+
