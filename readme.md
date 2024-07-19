@@ -13,7 +13,7 @@ c++ sycl examples
 
 **sycl compier:**
 
-+ Adatpvecpp acpp compiler: https://github.com/AdaptiveCpp/AdaptiveCpp
++ Adaptivecpp acpp compiler: https://github.com/AdaptiveCpp/AdaptiveCpp
 
 $ acpp --help
 
