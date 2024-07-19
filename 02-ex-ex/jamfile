@@ -1,0 +1,12 @@
+progs =
+	01-matrix-addition
+;
+
+for prog in $(progs)
+{
+	exe $(prog)
+		:
+			$(prog).cpp
+	;
+}
+

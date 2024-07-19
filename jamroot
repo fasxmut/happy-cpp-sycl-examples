@@ -5,5 +5,7 @@ project
 ;
 
 build-project 01-basic-sycl ;
+build-project 02-ex-ex ;
+
 
 
